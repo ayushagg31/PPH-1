@@ -1,0 +1,11 @@
+Card: credit card, mastercard, bank card, visa card, mastercard cards, code, key, blue card, visa classic card, credit card ceilings, ceilings, ceiling increase, limit, fraud, ceilings card 
+Account: receipt, check deposits, sum, operations, coupons, rent, repayment, travel dates, procedures, smartform, mobile banking, mobile bank, funds, amount, form, chequing account, statements, securities accounts, closing, savings accounts, transactions, transfer, check, cancellation, transfers, withdrawals, account statements, account manager, transfer limit, account opening
+Insurance: beneficiaries, life insurance contract, bank insurance
+Banking: clients, client bank, documents, password, secure code, advisor, consultant, councilor, number, access, reactivation, authorization, payment, payment attempt, invoices, invoice request
+Loans, Credit & Lending: assurance, conservatory seizure, protection, change, confidence, contract
+Mail & Package Delivery: letter, booklet, agency, order, items, address, checkbook order, dispatch
+Investing: closing, amount, redemption document, analysis, investment solution, pact law, investment document, investment
+Auditing: tax notice, levy, disposal, law, return form, property
+Currencies & Foreign Exchange: law, charge, resident, transfer fees
+Communication: message, voice message, SMS, phone conversaton, reference, appointment, phone appointment, recipient, information, messaging, note, return message, smartphone banking app, mail address, email
+Enquiry: incident, inconvenience, request, inquiry, dispute, demand, reason, colleagues, opposition, question, action, explanations, case, problem, fear, answer, challenge, subject, need, instruction
