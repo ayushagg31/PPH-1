@@ -12,3 +12,7 @@
 - Sentiment Analysis is used to calculate the Sentiment score, which help us in finding the top priority mails.
 - Labelling is done using entity detection. 
 - Cloud AI Platform is used for training on different classification algorithms.
+
+## Code
+- [Final Processed code](https://github.com/ayushagg31/PPH-1/blob/master/UI-integration.ipynb)
+- [Tags generated for labelling](https://github.com/ayushagg31/PPH-1/blob/master/Mails_tags_dictionary.txt)
